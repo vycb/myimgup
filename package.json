@@ -1,0 +1,32 @@
+{
+	"name": "myimgup",
+	"description": "mysql image upload nodejs",
+	"version": "0.0.1",
+	"main": "./myimgup.js",
+	"main": "./server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mysql": "4.x",
+    "ejs": "2.x"
+  },
+  "engines": {
+    "node": "4.x"
+  },
+	"author": {
+		"name": "vycb",
+		"email": "vycb777@gmail.com"
+	},
+	"keywords": [],
+	"licenses": {
+		"type": "none"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vycb/myimgup.git"
+	},
+	"bugs": {
+		"url": "http://github.com/vycb/myimgup/issues"
+	}
+}
